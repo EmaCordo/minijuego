@@ -11129,3 +11129,14 @@ html {
 .arrow-link i {
   margin-right: 5px;
 }
+@media (max-width: 768px) {
+  /* Estilos para pantallas pequeñas (por ejemplo, smartphones) */
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  /* Estilos para pantallas medianas (por ejemplo, tablets) */
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
